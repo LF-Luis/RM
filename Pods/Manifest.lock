@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Eureka (3.0.0)
+  - GoogleMaps (2.4.0):
+    - GoogleMaps/Maps (= 2.4.0)
+  - GoogleMaps/Base (2.4.0)
+  - GoogleMaps/Maps (2.4.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.4.0):
+    - GoogleMaps/Base (= 2.4.0)
+  - ImageRow (2.0.0):
+    - Eureka (= 3.0)
+  - Onboard (2.3.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4)
+  - Eureka (~> 3)
+  - GoogleMaps (~> 2)
+  - GooglePlaces (~> 2)
+  - ImageRow
+  - Onboard
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Eureka: f36fd440c3ebb7bfea0a4fbe6f16a05f1cb35906
+  GoogleMaps: 8436ab5d1c25e36915b2f7416d0c8e3fa2e76c61
+  GooglePlaces: aafe5990fa7951e98e078761bbdaaf236d7e0c65
+  ImageRow: 9dfbfa38c1e62c25d638bc40e97a48c1809443c4
+  Onboard: b6871f25ac753175b2ab9a362fb2feb26a81a311
+
+PODFILE CHECKSUM: c44ad099423c6446bcd618eac2b97cf7083856f2
+
+COCOAPODS: 1.3.1
